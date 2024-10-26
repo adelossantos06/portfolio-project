@@ -1,0 +1,14 @@
+# Ignore the node_modules folder (commonly used in JavaScript/Node.js projects)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore OS-generated files (Mac)
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+
+# Ignore environment variable files
+.env
